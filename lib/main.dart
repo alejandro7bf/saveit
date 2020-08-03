@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:saveit/Screens/HomeScreen.dart';
 import 'package:saveit/Screens/LandingScreen.dart';
-import 'package:saveit/Widgets/BarItem.dart';
+
 
 void main() {
   runApp(MyApp());

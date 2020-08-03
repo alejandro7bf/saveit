@@ -2,6 +2,7 @@
 
 
 import 'package:flutter/material.dart';
+import 'package:saveit/Widgets/BarItem.dart';
 
 class LandingScreen extends StatelessWidget {
   @override
